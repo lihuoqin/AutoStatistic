@@ -1,2 +1,14 @@
 # AutoStatistic
 通用自动分析网页
+
+编辑config.js
+
+捐赠
+
+以太坊 0xa06A21f410d0bbc858DAA5818E1E96fE03558321
+
+币安链 0xa06A21f410d0bbc858DAA5818E1E96fE03558321
+
+波场   TGy43Dp81VYgq8Aek2PPNd55xUHqXL2uhB
+
+
